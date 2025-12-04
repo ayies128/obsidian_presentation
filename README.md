@@ -1,19 +1,17 @@
 # Obsidian × Claude Code × GitHub ドキュメント運用術
 
-このVaultは「Obsidian × Claude Code × GitHub」の実践活用術をまとめたプレゼン資料です。
+このVaultは「Obsidian × Claude Code × GitHub」の実践活用術をまとめたドキュメントです。
 
 ## 構成
 
-- `slides/` - プレゼンテーションスライド（10枚）
-- Obsidian の Slides プラグインを使用してプレゼン可能
+- `documents/` - ドキュメント（10ページ）
 
 ## 使い方
 
 1. Obsidian でこのフォルダをVaultとして開く
-2. `slides/00_presentation.md` を開く
-3. コマンドパレット → "Start presentation" でスライドショー開始
+2. `documents/` 内の各ページを閲覧
 
-## プレゼン内容
+## 内容
 
 1. タイトル
 2. 今日のゴール
