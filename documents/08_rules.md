@@ -64,5 +64,5 @@ docs/specs/ 内の仕様と src/ のコードを比較して、
 
 ## 関連スライド
 
-- 前へ: [[08_marketing2|マーケター活用例②]]
-- 次へ: [[10_summary|まとめ]]
+- 前へ: [[07_demo_nextjs_lp|デモ: Next.js LP作成]]
+- 次へ: [[09_obsidian_sync|Obsidian Sync]]

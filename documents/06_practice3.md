@@ -39,4 +39,4 @@ docs/specs/order.md の仕様書を更新してください
 ## 関連スライド
 
 - 前へ: [[05_practice2|実践② テストコード自動生成]]
-- 次へ: [[07_marketing1|マーケター活用例①]]
+- 次へ: [[07_demo_nextjs_lp|デモ: Next.js LP作成]]

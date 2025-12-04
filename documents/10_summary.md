@@ -7,17 +7,18 @@
 - Obsidianは"ただのメモ"じゃなく**チームの脳**
 - Claudeで"コードと仕様の橋渡し"が**自動化**
 - GitHubで"生きたドキュメント"が**維持される**
-- **非エンジニアも参戦**できる世界に！
+- Obsidian Syncで**リアルタイム共有**も可能
 
 ---
 
-## 3つのツールの連携
+## ツールの連携
 
 ```mermaid
 graph LR
     A[Obsidian<br/>知識の蓄積] --> B[Claude Code<br/>自動化・生成]
     B --> C[GitHub<br/>履歴管理]
     C --> A
+    D[Obsidian Sync] -.->|リアルタイム同期| A
 ```
 
 ---
@@ -36,6 +37,7 @@ graph LR
 2. Obsidian でそのフォルダを Vault として開く
 3. 最初の1ページを書いてみる
 4. GitHub に commit
+5. チーム共有が必要なら Obsidian Sync を検討
 
 ---
 
@@ -47,6 +49,6 @@ graph LR
 
 ## 関連スライド
 
-- 前へ: [[09_rules|運用ルール]]
+- 前へ: [[09_obsidian_sync|Obsidian Sync]]
 - 最初へ: [[01_title|タイトル]]
 - 全体: [[00_presentation|プレゼンテーション全体]]
