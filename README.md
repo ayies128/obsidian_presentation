@@ -15,7 +15,6 @@
 
 | # | タイトル | 説明 |
 |---|---------|------|
-| 0 | [プレゼンテーション全体](documents/00_presentation.md) | 統合版（全スライド） |
 | 1 | [タイトル](documents/01_title.md) | ドキュメントが勝手に育つ世界へ |
 | 2 | [今日のゴール](documents/02_goal.md) | 30分で学ぶ3つのポイント |
 | 3 | [3つのツールの役割](documents/03_tools.md) | Obsidian・Claude Code・GitHub |

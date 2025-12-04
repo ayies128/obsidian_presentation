@@ -77,4 +77,3 @@
 
 - 前へ: [[12_obsidian_sync|Obsidian Sync]]
 - 最初へ: [[01_title|タイトル]]
-- 全体: [[00_presentation|プレゼンテーション全体]]
