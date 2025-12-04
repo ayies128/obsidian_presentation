@@ -64,5 +64,5 @@ docs/specs/ 内の仕様と src/ のコードを比較して、
 
 ## 関連スライド
 
-- 前へ: [[09_demo_scraping|デモ: Webスクレイピング]]
-- 次へ: [[11_obsidian_sync|Obsidian Sync]]
+- 前へ: [[10_demo_scraping|デモ: Webスクレイピング]]
+- 次へ: [[12_obsidian_sync|Obsidian Sync]]

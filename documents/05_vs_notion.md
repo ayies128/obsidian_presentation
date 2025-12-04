@@ -147,5 +147,5 @@ graph LR
 
 ## 関連スライド
 
-- 前へ: [[03_tools|3つのツールの役割]]
-- 次へ: [[05_practice1|実践① Obsidianをプロジェクトに置く]]
+- 前へ: [[04_why_github|なぜ非エンジニアもGitHubなのか？]]
+- 次へ: [[06_practice1|実践① Obsidianをプロジェクトに置く]]

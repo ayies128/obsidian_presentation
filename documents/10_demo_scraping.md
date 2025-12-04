@@ -7,6 +7,7 @@
 ## シナリオ
 
 BUYMAの商品一覧をスクレイピングしてCSV出力する
+https://www.buyma.com/r/-C3260/
 
 ---
 
@@ -149,5 +150,5 @@ CSVファイルを出力しました: buyma_products_2025-12-04.csv
 
 ## 関連スライド
 
-- 前へ: [[08_demo_nextjs_lp|デモ: Next.js LP作成]]
-- 次へ: [[10_rules|運用ルール]]
+- 前へ: [[09_demo_nextjs_lp|デモ: Next.js LP作成]]
+- 次へ: [[11_rules|運用ルール]]

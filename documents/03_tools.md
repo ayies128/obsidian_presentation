@@ -26,4 +26,4 @@ graph LR
 ## 関連スライド
 
 - 前へ: [[02_goal|今日のゴール]]
-- 次へ: [[04_vs_notion|Obsidian vs Notion]]
+- 次へ: [[04_why_github|なぜ非エンジニアもGitHubなのか？]]
